@@ -16,6 +16,15 @@
     height: 100vh;
 }
 
+.dark-bg{
+    background-image: linear-gradient(rgb(0,0,0, 1), rgb(0,0,0,0.5)), url('../images/bg-1.jpeg');
+    background-size: cover;
+    background-position: center ;
+    background-attachment: fixed;
+
+    height: 94.4vh;
+}
+
 #hero .container {
     height: 50vh;
 }
@@ -27,6 +36,7 @@
 .dark-blue{
     color: var(--dark-blue);
 }
+
 .bg-dark-blue{
     background-color: var(--dark-blue);
 }
@@ -35,35 +45,26 @@ main{
     margin-top: 10rem;
 }
 
-.first-house{
-    background-image: url(../images/ev-1.webp);
+.house{
     background-size: cover;
     background-position: center ;
-
     height: 20rem;
 }
 
-
-.second-house {
-    background-image: url(../images/haus2.png);
-    background-size: cover;
-    background-position: center ;
-
-    height: 20rem;
+.first{
+    background-image: url(../images/ev-1.webp);    
 }
-.third-house{
-    background-image: url(../images/hause-1.jpg);
-    background-size: cover;
-    background-position: center ;
 
-    height: 20rem;
+.second{
+    background-image: url(../images/haus2.png);   
 }
-.fourth-house{
+
+.third{
+    background-image: url(../images/hause-1.jpg);  
+}
+
+.fourth{
     background-image: url(../images/apart-1.jpg);
-    background-size: cover;
-    background-position: center ;
-
-    height: 20rem;
 }
 
 
