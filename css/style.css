@@ -1,0 +1,71 @@
+:root {
+    --dark-blue: #194350;
+    --light-cream: #F7F3E9;
+    --light-blue:#B1D0E0;
+    --dark-pink: #FF8882;
+    --light-pink:#FFC2B4;
+
+}
+
+.light-bg {
+    background-image: linear-gradient(rgb(0,0,0, 0.2), rgb(0,0,0,0.5)), url('../images/bg-1.jpeg');
+    background-size: cover;
+    background-position: center ;
+    background-attachment: fixed;
+
+    height: 100vh;
+}
+
+.dark-bg{
+    background-image: linear-gradient(rgb(0,0,0, 1), rgb(0,0,0,0.5)), url('../images/bg-1.jpeg');
+    background-size: cover;
+    background-position: center ;
+    background-attachment: fixed;
+
+    height: 94.4vh;
+}
+
+#hero .container {
+    height: 50vh;
+}
+
+.p-50{
+    padding: 50px
+}
+
+.dark-blue{
+    color: var(--dark-blue);
+}
+
+.bg-dark-blue{
+    background-color: var(--dark-blue);
+}
+
+main{
+    margin-top: 10rem;
+}
+
+.house{
+    background-size: cover;
+    background-position: center ;
+    height: 20rem;
+}
+
+.first{
+    background-image: url(../images/ev-1.webp);    
+}
+
+.second{
+    background-image: url(../images/haus2.png);   
+}
+
+.third{
+    background-image: url(../images/hause-1.jpg);  
+}
+
+.fourth{
+    background-image: url(../images/apart-1.jpg);
+}
+
+
+

@@ -1,19 +1,17 @@
-# Home-von-Misha
+# Homes from Misha
 
 ##  Immobilienmakler Website
 
--Entscheiden sich für das Design
+-Entscheiden Sie sich für das Design
 
--Eine name und logo finden
+-Finden Sie ein Logo und einen Namen
 
--Arbeiten mit Bootstrap  (Ziele)
+-Arbeiten Sie mit Bootstrap  (Ziele)
 
--ich wähle ein paar Farben. Und ich arbeite nur mit dieser Farben
+-Wählen Sie ein paar Farben. Und arbeiten Sie nur mit dieser Farben
 
--Responsive 
+-Machen Sie Responsive 
 
--Benutzen Animation
+-Zeit: 2 Tage
 
--3 Tage
-
--Home page, mieten-kaufen Seite, eine Seite über Haustypen, contact page
+-Startseite, Mietenseite, Kaufenseite, Kontaktseite 
