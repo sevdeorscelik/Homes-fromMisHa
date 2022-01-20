@@ -1,23 +1,28 @@
-# Homes from Misha
+# Immobilienmakler Frontend 
 
-##  Immobilienmakler Website
+##  Homes´fromMisHa
 
-### Planung: 
+## Projektstart : 17.01.2022
+## Projektabschluss : 20.01.2022
 
--Entscheiden Sie sich für das Design
+### Seite Planungsdetails: 
 
--Finden Sie ein Logo und einen Namen
+-Entscheide dich für das Web-Design.
 
--Arbeiten Sie mit Bootstrap  (Ziele)
+-Finde ein Logo und einen Namen
 
--Wählen Sie ein paar Farben. Und arbeiten Sie nur mit dieser Farben
+-Arbeite mit Bootstrap5 & HTML5 & CSS3
 
--Machen Sie Responsive 
+-Wähle ein paar Farben, dann arbeite nur mit diesen Farben
 
--Zeit: 2 Tage
+-Mache Responsive Web Design
 
--Startseite, Mietenseite, Kaufenseite, Kontaktseite 
+-Zeit: 3 Tage
 
---------------------
+-Komponente: Startseite, Mietenseite, Kaufenseite, Kontaktseite 
 
-![reference image](images/readme.gif)
+--------------------------------------------------------------
+
+##Reference Images :
+
+![reference image](images/readme.gif = 150x300)
