@@ -21,4 +21,4 @@
 
 ### Reference Images :
 
-![reference image](images/readme.gif =100px)
+<img src="images/readme.gif" height="400" /> <img src="images/ss.png" height="400"/>
