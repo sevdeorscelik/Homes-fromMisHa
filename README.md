@@ -2,6 +2,8 @@
 
 ##  Immobilienmakler Website
 
+### Planung: 
+
 -Entscheiden Sie sich für das Design
 
 -Finden Sie ein Logo und einen Namen
@@ -15,3 +17,7 @@
 -Zeit: 2 Tage
 
 -Startseite, Mietenseite, Kaufenseite, Kontaktseite 
+
+--------------------
+
+![reference image](images/readme.gif)
