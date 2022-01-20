@@ -21,4 +21,4 @@
 
 ### Reference Images :
 
-<img src="images/readme.gif" width="200"/>
+<img src="images/readme.gif" height="400" /> <img src="images/ss.png" height="400"/>
