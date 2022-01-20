@@ -12,7 +12,7 @@
 - Logodesign gehört mir.
 
 
-### Projektstart : 17.01.2022
+### Projektstart : 18.01.2022
 ### Projektabschluss : 20.01.2022
 
 --------------------------------------------------------------
