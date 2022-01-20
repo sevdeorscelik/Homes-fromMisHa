@@ -21,4 +21,4 @@
 
 ### Reference Images :
 
-![reference image](images/readme.gif)
+![reference image](images/readme.gif =100px)
