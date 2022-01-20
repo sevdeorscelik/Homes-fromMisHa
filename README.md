@@ -1,30 +1,24 @@
 # Immobilienmakler Frontend 
 
-##  Homes´fromMisHa
+#  ~ Homes´fromMisHa ~
 
-## Projektstart : 17.01.2022
-## Projektabschluss : 20.01.2022
+## Information über Projekt:
 
-### Seite Planungsdetails: 
+- Das ist eine Immiboilienmakler-Website.
+- Das ist meine erste Projekt mit Bootstrap.
+- Es besteht aus 4 Seite.
+- Komponente: Startseite, Mietenseite, Kaufenseite, Kontaktseite.
+- Das Projekt ist Responsive-Design.
+- Logodesign gehört mir.
 
--Entscheide dich für das Web-Design.
 
--Finde ein Logo und einen Namen
-
--Arbeite mit Bootstrap5 & HTML5 & CSS3
-
--Wähle ein paar Farben, dann arbeite nur mit diesen Farben
-
--Mache Responsive Web Design
-
--Zeit: 3 Tage
-
--Komponente: Startseite, Mietenseite, Kaufenseite, Kontaktseite 
+### Projektstart : 17.01.2022
+### Projektabschluss : 20.01.2022
 
 --------------------------------------------------------------
 
-## .[Link von meiner Seite]( https://sevdeorscelik.github.io/Home-von-Misha/)
+### .[Link von meiner Seite]( https://sevdeorscelik.github.io/Home-von-Misha/)
 
-## Reference Images :
+### Reference Images :
 
-![reference image](images/readme.gif = 150x300)
+![reference image](images/readme.gif)
