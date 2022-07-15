@@ -59,6 +59,10 @@ main{
     background-image: url(../images/apart-1.jpg);
 }
 
+.box-shadow-none{
+    box-shadow: none !important;  
+}
+
 /*kontakt page*/
 
 .dark-bg{
@@ -68,6 +72,19 @@ main{
     background-attachment: fixed;
 
     height: 94.4vh;
+}
+
+
+/*über uns page*/
+
+.bg-image{
+    
+    height: 25rem;
+    background-image: url('../images/überuns-bg.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
 }
 
 
